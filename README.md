@@ -4,7 +4,7 @@
       
       Programing Language used --> Java
       
-      2 Users --> Admin User & Normal User
+      2  Users --> Admin User & Normal User
 
                   Admin User --> 1.Deposit Money
                                  2.Widthdraw Money
