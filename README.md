@@ -24,7 +24,6 @@
                              
                              User ID (2)        - Sakthi
                              USser Password (2) - 1907
-  With Login :-)
   
   File Name :- Atm.java 🦖
   
