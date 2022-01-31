@@ -1,8 +1,7 @@
 # Placement_Training_Zoho
 
-1. --> ATM Application Using CLI(Commend Line Interface)
+1.  ATM Application Using CLI(Commend Line Interface)
 
-  Programing Language used --> Java
   
   2 Users --> Admin User & Normal User
               
@@ -32,8 +31,7 @@
   
 2. --> Amazon Application Using CLI(Commend Line Interface)
 
-  Programing Language used --> Java
-  
+
   3 Users --> Admin User , Normal User & Merchandise User
   
               Admin User  -->  1 -> View all Products
