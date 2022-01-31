@@ -3,7 +3,7 @@
 1.  ATM Application Using CLI(Commend Line Interface)
 
   
-  2 Users --> Admin User & Normal User
+   Users --> Admin User & Normal User
               
               Admin User --> 1.Deposit Money
                              2.Check Money
@@ -32,7 +32,7 @@
 2. --> Amazon Application Using CLI(Commend Line Interface)
 
 
-  3 Users --> Admin User , Normal User & Merchandise User
+   Users --> Admin User , Normal User & Merchandise User
   
               Admin User  -->  1 -> View all Products
                                2 -> Add new Merchent
